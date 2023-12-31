@@ -12,5 +12,5 @@ This repository contains a Currency Converter application implemented in JavaScr
 1. Select the currency you want to convert from.
 2. Select the currency you want to convert to.
 3. The application will display the converted amount in the screen.
-4. To use this <a href="https://danielhashmi.github.io/Currency-Converter/">Click Here</a>
+4. To use this <a href="https://danielhashmi.github.io/Currency-Converter/">Click Here</a><br>
 Feel free to explore the repository, raise issues, and contribute. Enjoy converting currencies!
