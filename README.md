@@ -4,7 +4,6 @@ This repository contains a Currency Converter application implemented in JavaScr
 
 ## Features
 - **Currency Conversion**: This application allows users to convert one currency to another.
-- **Real-time Rates**: The application fetches real-time exchange rates, ensuring accurate conversions.
 - **User-friendly Interface**: The application has a simple and intuitive interface, making it easy for users to convert currencies.
 - **Built with JavaScript**: The application is implemented using JavaScript, ensuring a smooth and responsive user experience.
 
